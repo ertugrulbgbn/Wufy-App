@@ -8,7 +8,7 @@ Wufy App is a comprehensive recipe platform that offers hundreds of delicious di
 - 🍽️ **500+ Recipes:** Includes a wide variety of dishes, drinks, snacks, and desserts.  
 - 📸 **Original AI-Generated Images:** All photos are uniquely created by AI for this project and are not sourced from the internet.  
 - 📝 **Step-by-Step Instructions:** Follow detailed steps and ingredient lists to prepare your dishes with ease.  
-- 🔍 **Category-Based Filtering:** Search and filter recipes based on your preferences.  
+- 🔍 **Searching:** Search for recipes based on your preferences.  
 
 ## 📸 Screenshots  
 
