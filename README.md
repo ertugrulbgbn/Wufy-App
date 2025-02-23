@@ -20,17 +20,13 @@ Wufy App is a comprehensive recipe platform that offers hundreds of delicious di
 ### 📊 Country Recipe Screen  
 ![Ekran 3 son](https://github.com/user-attachments/assets/0f144383-fce1-47c1-9aa7-73e508c181f8)
 
-*Detailed view of a selected recipe.*  
+*Detailed view of recipes from selected country.*  
 
 ### 🔍 Search Screen  
 ![Ekran 1son](https://github.com/user-attachments/assets/ca4eb315-547b-428c-a2c3-7ee66a5d8370)
  
-*Explore more functionalities and settings.*  
+*Search screen appearance.*  
 
 ## 📄 License  
 
-This project is licensed under the [MIT License](LICENSE).  
-
----
-
-✨ For more information, feel free to reach out!  
+This project is licensed under the [MIT License](LICENSE).
