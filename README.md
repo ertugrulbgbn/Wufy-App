@@ -1,4 +1,4 @@
-# 🚀 Wufy App  
+# 🍔 Food & Beverage Recipe App 
 
 Wufy App is a comprehensive recipe platform that offers hundreds of delicious dishes from around the world. Below are the screenshots showcasing the core functionalities of the app.  
 
@@ -13,17 +13,17 @@ Wufy App is a comprehensive recipe platform that offers hundreds of delicious di
 ## 📸 Screenshots  
 
 ### 🖥️ Home Screen  
-![Home Screen]![Ekran 2 son](https://github.com/user-attachments/assets/db50362e-e35d-4d22-a0fa-7a9a441cfbf6)
+![Ekran 2 son](https://github.com/user-attachments/assets/db50362e-e35d-4d22-a0fa-7a9a441cfbf6)
 
 *General view of the home screen.*  
 
 ### 📊 Country Recipe Screen  
-![Recipe Detail] ![Ekran 3 son](https://github.com/user-attachments/assets/0f144383-fce1-47c1-9aa7-73e508c181f8)
+![Ekran 3 son](https://github.com/user-attachments/assets/0f144383-fce1-47c1-9aa7-73e508c181f8)
 
 *Detailed view of a selected recipe.*  
 
-### ⚙️ Search Screen  
-![Additional Features]![Ekran 1son](https://github.com/user-attachments/assets/ca4eb315-547b-428c-a2c3-7ee66a5d8370)
+### 🔍 Search Screen  
+![Ekran 1son](https://github.com/user-attachments/assets/ca4eb315-547b-428c-a2c3-7ee66a5d8370)
  
 *Explore more functionalities and settings.*  
 
